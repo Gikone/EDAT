@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"es.ubu.inf.edat.pr03","l":"ColeccionArray2DUtilidades"}]
